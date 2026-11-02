@@ -24,9 +24,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kiuvert39&label=PROFILE%20VIEWS&color=0891B2&style=flat-square" />
-
 </div>
 
 ---
