@@ -1,48 +1,112 @@
-### About Me:    
-👋 Hello, I'm kliuvert 
 
-I'm a dedicated Full-Stack Developer and DevOps Engineer with a deep love for technology and a relentless drive to create impactful solutions. My journey in tech has been fueled by a desire to build seamless, scalable applications that not only meet but exceed user expectations.
+# Hi, I'm Kliuvert Egbe 👋
 
-As a Full-Stack Developer, I thrive on bringing ideas to life, whether it's through crafting dynamic front-end interfaces or architecting robust back-end systems. I believe in writing clean, efficient code that powers intuitive user experiences. My stack is diverse, and I’m constantly exploring new tools and frameworks to stay ahead in this ever-evolving field.
+### Software Engineer | Backend Development | DevOps & Cloud Infrastructure
 
-On the DevOps side, I’m passionate about streamlining development workflows and ensuring that deployments are smooth and reliable. I have hands-on experience with AWS services like EC2 for scalable computing power and RDS for reliable database management. My focus is on building resilient infrastructure as code, automating processes, and maintaining high availability and performance.
+I'm a Computer Science graduate-in-progress and Software Engineer with approximately 3 years of experience building software solutions, backend systems, and cloud infrastructure.
 
-What drives me is the opportunity to solve complex problems and deliver solutions that make a real difference. Whether enhancing a user’s experience or optimizing a system’s performance, I approach every challenge with enthusiasm and a commitment to excellence.
-       
-   
+My work sits at the intersection of software engineering and infrastructure engineering. I enjoy designing backend services, developing scalable applications, automating deployment workflows, and building reliable systems that solve real-world problems.
 
-## Languages and Tools 
-<div>
+I have practical experience working with technologies across the JavaScript/TypeScript ecosystem, particularly Node.js and NestJS, alongside cloud platforms and DevOps tools such as AWS, Docker, Terraform, and GitHub Actions.
 
-### Languages:
-| Python3 | C | JS | 
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="55" height="55"/> |
-  
+I'm particularly interested in:
 
-### Best frameworks and main libraries for Python3:
+- Backend engineering and distributed systems.
+- Cloud infrastructure and DevOps automation.
+- Applied Computer Science and software architecture.
+- Artificial Intelligence and data-driven applications.
+- Digital health and technology for emerging markets.
 
-| Pytorch | Nextjs | React | Flask | Expressjs | Nestjs |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="Nextjs"  alt="Nextjs" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="expressjs" alt="expressjs" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" alt="mpl" width="55" height="55"/>|
+I'm continuously improving my engineering skills through practical projects, technical experimentation, and academic development.
 
+---
 
+## 🛠️ Technical Skills
 
-  
-### Environments, Testing, Other:
+### Programming Languages
+- **Primary:** JavaScript, TypeScript
+- **Working knowledge:** Python, C
 
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|
+### Backend & Application Development
+- Node.js
+- NestJS
+- Express.js
+- REST API Development
+- React
+- Next.js
 
+### Databases & Data Management
+- PostgreSQL
+- Prisma ORM
+- Redis
+- MySQL
 
-### OS:
+### Cloud & DevOps
+- Amazon Web Services (AWS): EC2, RDS, S3, VPC
+- Microsoft Azure
+- Docker & Docker Compose
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Jenkins
+- Linux & Ubuntu
+- Nginx
 
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+### Development & Engineering Tools
+- Git & GitHub
+- Postman
+- Swagger / OpenAPI
+- RabbitMQ
+- CI/CD automation
 
+---
 
+## 🚀 Selected Projects
 
-</div>
+### MatchBend
+A business-focused mobile application built with React Native and Expo, featuring customer matching and real-time communication capabilities.
+
+**Technologies:** React Native, Expo, Node.js, Agora.
+
+### MedAccessAfriq
+Contributing to the engineering and deployment of healthcare software infrastructure, with a focus on backend deployment and cloud operations.
+
+**Technologies:** AWS, EC2, Docker, GitHub Actions, Nginx, Redis.
+
+### Shipit
+An ongoing command-line tool project aimed at simplifying and automating repetitive server setup and deployment workflows.
+
+**Technologies:** TypeScript, Node.js, Linux, Docker, GitHub Actions.
+
+---
+
+## 🎓 Education & Academic Interests
+
+**University of Buea, Cameroon**
+
+B.Sc. Computer Science — In Progress
+
+My academic background provides a foundation in programming, algorithms, data structures, databases, software engineering, computer networks, and computer security.
+
+I'm interested in further developing my knowledge through postgraduate studies, particularly in Applied Computer Science, Software Engineering, Data Science, and related areas.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Advanced cloud infrastructure automation.
+- Infrastructure as Code and deployment orchestration.
+- Distributed systems and scalable backend architecture.
+- Data analysis and applied machine learning.
+- Building practical AI-powered software solutions.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with software engineers, researchers, developers, and technology enthusiasts working on meaningful solutions.
+
+- **GitHub:** [@kiuvert39](https://github.com/kiuvert39)
+- **LinkedIn:** [Add your LinkedIn profile]
+- **Portfolio:** [Add your portfolio or website]
+
